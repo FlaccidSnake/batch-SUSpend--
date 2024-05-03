@@ -12,9 +12,10 @@ Copy the  `batch-SUSpend-ඞ`  directory to your  `addons21`  folder.
 
 #### Screenshots
 
-![](./assets/options_window.png)
-![](./assets/create_rule.png)
-![](./assets/rules_added.png)
+![image](https://github.com/FlaccidSnake/batch-SUSpend--/assets/67238552/816389be-5697-45c1-95d3-ef9c8e996873)
+![image](https://github.com/FlaccidSnake/batch-SUSpend--/assets/67238552/9bfd3eca-64d8-4094-91d2-620a44f83bbf)
+![image](https://github.com/FlaccidSnake/batch-SUSpend--/assets/67238552/3b96349e-7dbd-4868-8b0f-9b31f34bc0fe)
+
 
 #### Use
 
