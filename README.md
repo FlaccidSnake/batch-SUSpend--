@@ -25,6 +25,6 @@ Rules can be toggled on or off using their checkbox. Rules can be deleted or edi
 
 When 'Suspend' is clicked all of the the selected rules will be executed, and the cards will be suspended.
 
-Currently tested and working on  `macOS Qt5.14 Anki 2.1.64` and Windows `Qt6.4.3 Anki 2.1.64`
+Currently tested and working on Windows `Qt5 Anki 24.04.1`
 
 * Please make sure to back up all of your decks before using. I have literally cobbled this together using vague programming familiarity, Ctrl + F, ChatGPT 3.5, and someone else's code.
