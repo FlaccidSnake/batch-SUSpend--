@@ -16,7 +16,7 @@ class CreateRuleDialog(QDialog):
 
 	def __init__(self, parent=None, rule_edit=None):
 		super(CreateRuleDialog, self).__init__(parent)
-		self.setWindowTitle("Create Unsuspend Rule")
+		self.setWindowTitle("Create SUSpend Rule ඞ")
 		self.parent = parent  # Store the parent
 		self.rule_edit = rule_edit
 
