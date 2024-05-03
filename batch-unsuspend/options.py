@@ -16,7 +16,7 @@ def show_options_dialog():
 	dialog.exec()
 
 # Create a new menu item
-action = QAction("Batch-Unsuspend Options", mw)
+action = QAction("Batch-SUSpend Options ඞ", mw)
 # set it to call options when it's clicked
 qconnect(action.triggered, show_options_dialog)
 # And add it to the tools menu
