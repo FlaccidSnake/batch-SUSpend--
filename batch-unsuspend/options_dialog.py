@@ -17,14 +17,14 @@ from . import batch_logic
 class OptionsDialog(QDialog):
 	def __init__(self):
 		super().__init__()
-		self.setWindowTitle("Batch-Unsuspend Options")
+		self.setWindowTitle("Batch-SUSpend Options ඞ")
 		self.setMinimumSize(950, 150) # can I pass the size here? 550 150
 
 		# Initialise buttons
 		self.create_rule_button = QPushButton("Add rule")
 		self.create_rule_button.clicked.connect(self.show_create_rule_dialog)
 
-		self.unsuspend_button = QPushButton("Un-suspend")
+		self.unsuspend_button = QPushButton("SUSpend ඞ ")
 		self.unsuspend_button.clicked.connect(batch_logic.unsuspend_cards)
 		# Then close the window after the cards have been unsuspended
 		self.unsuspend_button.clicked.connect(self.reject)
